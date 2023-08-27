@@ -2,15 +2,11 @@
 
 Welcome to TDRDT.
 
-[pre]
-[font=Arial][color=red]
-TTTTT [color=blue]DDDD[/color]   [color=green]RRRR[/color]    [color=yellow]DDDD[/color]   TTTTT
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]R   R[/color]   [color=blue]D   D[/color]    [color=green]T[/color]  
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]RRRR[/color]    [color=blue]D   D[/color]    [color=green]T[/color]  
-  [color=blue]T[/color]   [color=green]D   D[/color]  [color=yellow]R  R[/color]    [color=blue]D   D[/color]    [color=green]T[/color]  
-  [color=blue]T[/color]   [color=green]DDDD[/color]   [color=yellow]R   R[/color]   [color=blue]DDDD[/color]     [color=green]T[/color]
-[/color][/font]
-[/pre]
+TTTTT DDDD RRRR DDDD TTTTT
+T D D R R D D T  
+ T D D RRRR D D T  
+ T D D R R D D T  
+ T DDDD R R DDDD T
 
 ## URL project
 
