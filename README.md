@@ -1,6 +1,8 @@
-# TDRDT [Trozos De Realidad Digital Tier] website
+# TDRDT website
 
-Welcome to TDRDT!
+[Trozos De Realidad Digital Tier]
+
+_Welcome to TDRDT!_ A projecto based in Colombia to promote entrepreneur on advertising, web design, culture, arts and more.
 
 ```asciiart
 TTTTT  DDDD    RRRR    DDDD   TTTTT
@@ -15,23 +17,13 @@ TTTTT  DDDD    RRRR    DDDD   TTTTT
 - https://lucfreelance.github.io/tdrdt/
 - https://inded.xyz/Jekyll_modern-blog/
 
-## Attributions
+## Deploy in
 
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
+- GitHub Pages
 
-## License
+## Developed by
 
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
-
-### Jekyll Modern Blog
-
-A Simple, Clean and responsive modern blog for jekyll.
-![Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+Lucfreelance <lucfreelance@gmail.com>
 
 ## Nice commands
 
@@ -48,19 +40,32 @@ bundle exec jekyll build
 ```
 
 ```
-
 jekyll bundle
-
 ```
 
 ```
-
 gem install bundler
-
 ```
 
 ```
-
 bundle install
-
 ```
+
+### Attributions
+
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
+
+### License
+
+- Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
+
+- Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+"Changes being that I made it jekyll ready and smushed the CSS together".
+
+### Jekyll Modern Blog
+
+A Simple, Clean and responsive modern blog for jekyll.
+
+![Jekyll Modern Blog](http://inded.github.io/Jekyll_modern-blog/)
