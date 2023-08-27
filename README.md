@@ -36,22 +36,16 @@ A Simple, Clean and responsive modern blog for jekyll.
 ## Nice commands
 
 ```
-
-```
-
 bundle exec jekyll serve
-
 ```
 
 ```
-
 jekyll serve
-
 ```
 
 ```
-
 bundle exec jekyll build
+```
 
 ```
 
@@ -68,9 +62,5 @@ gem install bundler
 ```
 
 bundle install
-
-```
-
-```
 
 ```
