@@ -3,22 +3,17 @@
 Welcome to TDRDT!
 
 ```asciiart
-TTTTT DDDD   RRRR    DDDD   TTTTT
-  T   D   D  R   R   D   D    T
-  T   D   D  RRRR    D   D    T
-  T   D   D  R  R    D   D    T
-  T   DDDD   R   R   DDDD     T
+TTTTT  DDDD    RRRR    DDDD   TTTTT
+  T    D   D   R   R   D   D    T
+  T    D   D   RRRR    D   D    T
+  T    D   D   R  R    D   D    T
+  T    DDDD    R   R   DDDD     T
 ```
 
 ## URL project
 
 - https://lucfreelance.github.io/tdrdt/
 - https://inded.xyz/Jekyll_modern-blog/
-
-#### Jekyll Modern Blog
-
-A Simple, Clean and responsive modern blog for jekyll.
-![Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
 ## Attributions
 
@@ -33,9 +28,49 @@ Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3]
 
 Changes being that I made it jekyll ready and smushed the CSS together.
 
+### Jekyll Modern Blog
+
+A Simple, Clean and responsive modern blog for jekyll.
+![Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+
 ## Nice commands
 
-- bundle exec jekyll serve
-- bundle exec jekyll build
-- gem install bundler
-- bundle install
+```
+
+```
+
+bundle exec jekyll serve
+
+```
+
+```
+
+jekyll serve
+
+```
+
+```
+
+bundle exec jekyll build
+
+```
+
+jekyll bundle
+
+```
+
+```
+
+gem install bundler
+
+```
+
+```
+
+bundle install
+
+```
+
+```
+
+```
