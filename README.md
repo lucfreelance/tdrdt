@@ -1,12 +1,14 @@
-# TDRDT [Trozos De Realidad Digital Tier]
+# TDRDT [Trozos De Realidad Digital Tier] website
 
-Welcome to TDRDT.
+Welcome to TDRDT!
 
-TTTTT DDDD RRRR DDDD TTTTT
-T D D R R D D T  
- T D D RRRR D D T  
- T D D R R D D T  
- T DDDD R R DDDD T
+```asciiart
+TTTTT DDDD   RRRR    DDDD   TTTTT
+  T   D   D  R   R   D   D    T
+  T   D   D  RRRR    D   D    T
+  T   D   D  R  R    D   D    T
+  T   DDDD   R   R   DDDD     T
+```
 
 ## URL project
 
