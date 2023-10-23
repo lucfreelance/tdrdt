@@ -1,7 +1,7 @@
 ---
 title:  "Promotora de Eventos"
 subtitle: "Tus eventos inolvidables de la mano de profesionales"
-author: "Tdrid"
+author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/promotora-de-eventos-tdrid.jpg"
 date: 2023-10-16 05:12:12 -0500

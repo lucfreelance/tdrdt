@@ -1,7 +1,7 @@
 ---
 title:  "Agencia de Artistas"
 subtitle: "Somos Uno En Busca Del Mejor Talento"
-author: "Tdrid"
+author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/agencia-de-artistas-tdrid.jpg"
 date: 2023-10-02 05:12:12 -0500

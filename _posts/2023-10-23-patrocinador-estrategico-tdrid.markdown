@@ -1,7 +1,7 @@
 ---
 title:  "Patrocinador Estratégico"
 subtitle: "Tienes el Poder de Marcar el Sentido de tus Pasos"
-author: "Tdrid"
+author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/patrocinador-estrategico-tdrid.jpg"
 date: 2023-10-23 05:12:12 -0500

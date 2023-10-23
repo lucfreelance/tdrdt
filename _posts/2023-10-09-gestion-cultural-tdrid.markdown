@@ -1,7 +1,7 @@
 ---
 title:  "Gestión Cultural"
 subtitle: "Hacemos de la Cultura un Bien Común"
-author: "Tdrid"
+author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/gestion-cultural-tdrid.jpg"
 date: 2023-10-09 05:12:12 -0500
