@@ -28,6 +28,12 @@ Lucfreelance <lucfreelance@gmail.com>
 ## Nice commands
 
 ```
+
+`wslview` + FILE-TO-OPEN
+
+```
+
+```
 bundle exec jekyll serve
 ```
 
@@ -69,3 +75,17 @@ Using Sample images from [Fancy Crave](http://fancycrave.com/)
 A Simple, Clean and responsive modern blog for jekyll.
 
 ![Jekyll Modern Blog](http://inded.github.io/Jekyll_modern-blog/)
+
+
+
+
+
+[pre]
+[font=Arial][color=red]
+[color=blue]TTTTTT[/color] [color=green]DDDD[/color]   [color=yellow]RRRR[/color]    [color=blue]DDDD[/color]   [color=green]TTTTTT[/color]
+  [color=blue]T[/color]    [color=green]D   D[/color]  [color=yellow]R   R[/color]   [color=blue]D   D[/color]    [color=green]T[/color]
+  [color=blue]T[/color]    [color=green]D   D[/color]  [color=yellow]RRRR[/color]    [color=blue]D   D[/color]    [color=green]T[/color]
+  [color=blue]T[/color]    [color=green]D   D[/color]  [color=yellow]R  R[/color]    [color=blue]D   D[/color]    [color=green]T[/color]
+  [color=blue]T[/color]    [color=green]DDDD[/color]   [color=yellow]R   R[/color]   [color=blue]DDDD[/color]     [color=green]T[/color]
+[/color][/font]
+[/pre]
