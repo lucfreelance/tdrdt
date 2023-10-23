@@ -1,14 +1,12 @@
 ---
 title:  "Gestión Cultural"
 subtitle: "Hacemos de la Cultura un Bien Común"
-author: "tdrid"
+author: "Tdrid"
 avatar: "img/authors/tdrid.png"
-image: "img/posts/gestion-cultural-tdrid.jpg"
+image: "img/gestion-cultural-tdrid.jpg"
+date: 2023-10-09 05:12:12 -0500
 ---
 <!-- Imagen: Incluye una imagen que refleje la diversidad cultural y el sentido de comunidad. -->
-
-# Gestión Cultural
-![Diversidad Cultural](img/posts/gestion-cultural-tdrid.jpg)
 
 Aquí en Trozos de Realidad ID, no solo creamos, también nutrimos. Nuestra unidad de Gestión Cultural está en una misión para hacer de la cultura un bien común.
 

@@ -1,14 +1,12 @@
 ---
 title:  "Patrocinador Estratégico"
 subtitle: "Tienes el Poder de Marcar el Sentido de tus Pasos"
-author: "tdrid"
+author: "Tdrid"
 avatar: "img/authors/tdrid.png"
-image: "img/posts/patrocinador-estrategico-tdrid.jpg"
+image: "img/patrocinador-estrategico-tdrid.jpg"
+date: 2023-10-23 05:12:12 -0500
 ---
 <!-- Imagen: Utiliza una imagen que represente la idea de dirección estratégica. -->
-
-# Patrocinador Estratégico
-![Dirección Estratégica](img/posts/patrocinador-estrategico-tdrid.jpg)
 
 ¿Quieres tomar el control de tu destino y marcar el rumbo de tus pasos? Nuestra unidad de Patrocinador Estratégico está diseñada para empoderarte en tus decisiones.
 

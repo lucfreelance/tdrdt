@@ -1,14 +1,12 @@
 ---
 title:  "Editorial Digital"
 subtitle: "Lo que quieras publicar al alcance de unos clics"
-author: "tdrid"
+author: "Tdrid"
 avatar: "img/authors/tdrid.png"
-image: "img/posts/editorial-digital-tdrid.jpg"
+image: "img/editorial-digital-tdrid.jpg"
+date: 2023-09-18 05:12:12 -0500
 ---
 <!-- Imagen: Inserta una imagen que refleje la simplicidad de la plataforma de Editorial Digital. -->
-
-# Editorial Digital
-![Simplicidad](img/posts/editorial-digital-tdrid.jpg)
 
 ¡Bienvenidos a la Revolución Digital con nuestra unidad de negocio, Editorial Digital! Aquí, la creatividad y la facilidad se unen para permitirte publicar lo que quieras con solo unos clics.
 

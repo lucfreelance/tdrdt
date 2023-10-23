@@ -1,14 +1,12 @@
 ---
 title:  "Promotora de Eventos"
 subtitle: "Tus eventos inolvidables de la mano de profesionales"
-author: "tdrid"
+author: "Tdrid"
 avatar: "img/authors/tdrid.png"
-image: "img/posts/promotora-de-eventos-tdrid.jpg"
+image: "img/promotora-de-eventos-tdrid.jpg"
+date: 2023-10-16 05:12:12 -0500
 ---
 <!-- Imagen: Incluye una imagen que represente un evento emocionante y memorable. -->
-
-# Promotora de Eventos
-![Evento Emocionante](img/posts/promotora-de-eventos-tdrid.jpg)
 
 En Trozos de Realidad ID, sabemos que los eventos especiales merecen un trato especial. Nuestra unidad de Promotora de Eventos se dedica a hacer tus ocasiones especiales verdaderamente inolvidables.
 
