@@ -4,7 +4,7 @@
 
 _Welcome to TDRDT!_ A projecto based in Colombia to promote entrepreneur on advertising, web design, culture, arts and more.
 
-```asciiart
+```before
 TTTTT  DDDD    RRRR    DDDD   TTTTT
   T    D   D   R   R   D   D    T
   T    D   D   RRRR    D   D    T
@@ -12,7 +12,7 @@ TTTTT  DDDD    RRRR    DDDD   TTTTT
   T    DDDD    R   R   DDDD     T
 ```
 
-```asciiart
+```atfer
 TTTTT  DDDD    RRRR    T   DDDD  
   T    D   D   R   R   T   D   D 
   T    D   D   RRRR    T   D   D 
@@ -23,7 +23,10 @@ TTTTT  DDDD    RRRR    T   DDDD
 ## URL project
 
 - https://lucfreelance.github.io/tdrdt/
-- https://inded.xyz/Jekyll_modern-blog/
+
+## URL framesource
+
+- https://github.com/inded/Jekyll_modern-blog
 
 ## Deploy in
 
