@@ -1,6 +1,6 @@
 # TDRDT website
 
-[Trozos De Realidad Digital Tier]
+[Trozos De Realidad ID]
 
 _Welcome to TDRDT!_ A projecto based in Colombia to promote entrepreneur on advertising, web design, culture, arts and more.
 
@@ -10,6 +10,14 @@ TTTTT  DDDD    RRRR    DDDD   TTTTT
   T    D   D   RRRR    D   D    T
   T    D   D   R  R    D   D    T
   T    DDDD    R   R   DDDD     T
+```
+
+```asciiart
+TTTTT  DDDD    RRRR    T   DDDD  
+  T    D   D   R   R   T   D   D 
+  T    D   D   RRRR    T   D   D 
+  T    D   D   R  R    T   D   D 
+  T    DDDD    R   R   T   DDDD  
 ```
 
 ## URL project
