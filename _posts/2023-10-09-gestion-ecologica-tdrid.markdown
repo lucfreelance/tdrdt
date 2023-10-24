@@ -1,6 +1,6 @@
 ---
 title:  "Gestión Ecológica"
-subtitle: "Ecología Resiliente y Aprovechamiento"
+subtitle: "Ecología Resiliente y Aprovechamiento "
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/imgposts/gestion-ecologica-tdrid.jpg"

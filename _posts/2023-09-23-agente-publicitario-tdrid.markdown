@@ -1,6 +1,6 @@
 ---
 title:  "Agente Publicitario"
-subtitle: "Promocionate en medios y redes sociales con estilo"
+subtitle: "Promociones Efectivas en Medios y Redes Sociales"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/imgposts/agente-publicitario-tdrid.jpg"

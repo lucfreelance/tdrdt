@@ -1,6 +1,6 @@
 ---
 title:  "Promotora de Eventos"
-subtitle: "Tus eventos inolvidables de la mano de profesionales"
+subtitle: "Eventos inolvidables de la mano de profesionales"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/imgposts/promotora-de-eventos-tdrid.jpg"

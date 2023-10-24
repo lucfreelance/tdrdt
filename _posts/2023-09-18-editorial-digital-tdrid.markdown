@@ -1,6 +1,6 @@
 ---
 title:  "Editorial Digital"
-subtitle: "Lo que quieras publicar al alcance de unos clics"
+subtitle: "Lo que Quieras Publicar al Acance de Unos Clics"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
 image: "img/imgposts/editorial-digital-tdrid.jpg"
