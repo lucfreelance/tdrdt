@@ -20,13 +20,17 @@ TTTTT  DDDD    RRRR    T   DDDD
   T    DDDD    R   R   T   DDDD  
 ```
 
-## URL project
+## URL Project
 
 - https://lucfreelance.github.io/tdrdt/
 
-## URL framesource
+## URL Framesource
 
 - https://github.com/inded/Jekyll_modern-blog
+
+## Website Autor
+
+[![Página web del autor](https://www.tu-imagen.com)](https://lucfreelance.com)
 
 ## Deploy in
 
