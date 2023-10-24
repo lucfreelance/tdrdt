@@ -3,7 +3,7 @@ title:  "Patrocinador Estratégico"
 subtitle: "Tienes el Poder de Marcar el Sentido de tus Pasos"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
-image: "img/patrocinador-estrategico-tdrid.jpg"
+image: "img/imgposts/patrocinador-estrategico-tdrid.jpg"
 date: 2023-10-23 05:12:12 -0500
 ---
 <!-- Imagen: Utiliza una imagen que represente la idea de dirección estratégica. -->

@@ -3,7 +3,7 @@ title:  "Agente Publicitario"
 subtitle: "Promocionate en medios y redes sociales con estilo"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
-image: "img/agente-publicitario-tdrid.jpg"
+image: "img/imgposts/agente-publicitario-tdrid.jpg"
 date: 2023-09-23 05:12:12 -0500
 ---
 <!-- Imagen: Utiliza una imagen que represente el impacto positivo en la presencia en línea de un negocio. -->

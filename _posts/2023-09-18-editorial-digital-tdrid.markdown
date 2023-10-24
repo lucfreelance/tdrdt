@@ -3,7 +3,7 @@ title:  "Editorial Digital"
 subtitle: "Lo que quieras publicar al alcance de unos clics"
 author: "TDRid"
 avatar: "img/authors/tdrid.png"
-image: "img/editorial-digital-tdrid.jpg"
+image: "img/imgposts/editorial-digital-tdrid.jpg"
 date: 2023-09-18 05:12:12 -0500
 ---
 <!-- Imagen: Inserta una imagen que refleje la simplicidad de la plataforma de Editorial Digital. -->
